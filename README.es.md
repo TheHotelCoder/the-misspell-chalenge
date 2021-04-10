@@ -7,7 +7,7 @@ El perfecto rompehielos para las contribuciones de código abierto; arreglar un 
 ## 📝 Instrucciones
 
 Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de BreatheCode y crea una petición de extracción con la solución. Hola
-
+aaa
 ### 1. Para corregir un error ortográfico en una lección de BreatheCode:  
 
 ![Logotipo de Github en la lección BreatheCode](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
